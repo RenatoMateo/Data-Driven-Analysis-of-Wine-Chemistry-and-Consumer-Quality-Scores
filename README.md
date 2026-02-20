@@ -142,13 +142,12 @@ wine-quality-analysis/
 
 - [Wine Quality Data Set (UCI)](https://archive.ics.uci.edu/dataset/186/wine+quality)
 - Cortez, P., Cerdeira, A., Almeida, F., Matos, T., & Reis, J. (2009). Wine Quality Data Set. _UCI Machine Learning Repository_.
-- [Scikit-learn Documentation](https://scikit-learn.org/)
 
 ---
 
 ## 👨‍💻 Author
 
-Data science notebook and documentation by ***Renato Silva***
+Data science notebook and documentation by **Renato Silva**
 
 ---
 
