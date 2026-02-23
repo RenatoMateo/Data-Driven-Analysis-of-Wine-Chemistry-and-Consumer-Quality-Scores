@@ -35,7 +35,7 @@ Welcome to the **Wine Quality Analysis** project! This repository contains a com
 
 ---
 
-## 🔬 Key Results & Insights
+## Key Results & Insights
 
 ### 1. **Consumer Scores Are correlated by Chemistry**
 
@@ -81,23 +81,14 @@ Wines with riper grapes and cleaner fermentation (high PC1, low PC2) consistentl
 
 ## 🗂️ Screenshots & Visual Results
 
-### Correlation Heatmap Example
 
-![Correlation Heatmap](./images/correlation_heatmap_sample.png)
 
-###  PCA Component Loadings
 
-```plaintext
-             PC1     PC2
-alcohol     0.49   -0.12   <-- High alcohol = High quality
-sulphates   0.38    0.21
-...
-volatile_acid -0.38  0.27   <-- Low VA = High quality
 ```
 
 ### Cluster Assignment Visualization
 
-![Red Wine Clusters](./images/red_wine_clusters.png)
+
 
 ---
 
@@ -151,23 +142,12 @@ Data science notebook and documentation by **Renato Silva**
 
 ---
 
-## 🤝 License
-
-This project is open for educational, non-commercial use. Attribution required for derived works.
-
----
-
 **Cheers to Data-Driven Wine!** 🍇🍷
 
 ---
 
 > _“The discovery of a good wine is increasingly better for mankind than the discovery of a new star.”_  
 > — Leonardo da Vinci
-
----
-
-**Want to contribute or use these techniques on your own production data?**  
-Open an issue or pull request!
 
 ---
 
@@ -179,5 +159,3 @@ Open an issue or pull request!
 | **White**  | >11.2%  | >0.51 g/L | <0.28 | <0.04     | >0.28 g/L   | >3.31 | <0.9920  | <123mg | <3.4 g/L       |
 
 ---
-
-**If you use this analysis, please credit Renato Silva and link to this repository.**
