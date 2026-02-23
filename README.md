@@ -79,19 +79,6 @@ Wines with riper grapes and cleaner fermentation (high PC1, low PC2) consistentl
 
 ---
 
-## 🗂️ Screenshots & Visual Results
-On Construction
-
-
-
-```
-
-### Cluster Assignment Visualization
-On Construction
-
-
----
-
 ## 📦 Repository Structure
 
 ```
