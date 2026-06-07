@@ -192,9 +192,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost jupyter
 
 **Renato Silva** — Raporting and Data Analyst
 
-[LinkedIn](https://www.linkedin.com/in/) | [GitHub](https://github.com/RenatoMateo) | 
-
-[Power BI](https://app.powerbi.com/view?r=eyJrIjoiY2E2YjQyZDktMDc2MS00MTJiLWIwMjktZjgwYWU4NmMxOTE3IiwidCI6IjlmMTE5OTYyLThjNjItNDMxYy1hOGVmLWU3ZTBhNDJkMTFmYyIsImMiOjR9&pageName=7c4ac6fc0311211deb7e)
+[LinkedIn](https://www.linkedin.com/in/) | [GitHub](https://github.com/RenatoMateo) | [Power BI Demo](https://app.powerbi.com/view?r=eyJrIjoiY2E2YjQyZDktMDc2MS00MTJiLWIwMjktZjgwYWU4NmMxOTE3IiwidCI6IjlmMTE5OTYyLThjNjItNDMxYy1hOGVmLWU3ZTBhNDJkMTFmYyIsImMiOjR9&pageName=7c4ac6fc0311211deb7e)
 
 
 ---
