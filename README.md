@@ -1,4 +1,4 @@
- # 🍷 Data-Driven Analysis of Wine Chemistry & Consumer Quality Scores
+ # Data-Driven Analysis of Wine Chemistry & Consumer Quality Scores
 
 A comprehensive, end-to-end data science case study exploring the chemical determinants of wine quality across red and white wines. This project combines exploratory analysis, unsupervised learning, and machine learning regression to answer a central question:
 
@@ -83,7 +83,7 @@ Most wines cluster around scores of 5–6 on a 1–10 scale. Features most assoc
 - Profile: Lower ripeness (low PC1), low stabilization intensity (low PC2)
 - Interpretation: Neat processing and minimal intervention drive quality more than raw ripeness
 
-💡 **Cross-type insight:** In both wine categories, the clusters with the least processing/stabilization intensity consistently achieved the highest scores — suggesting that clean, minimal-intervention winemaking is rewarded by expert panels regardless of grape variety.
+ **Cross-type insight:** In both wine categories, the clusters with the least processing/stabilization intensity consistently achieved the highest scores, suggesting that clean, minimal-intervention winemaking is rewarded by expert panels regardless of grape variety.
 
 ---
 
@@ -122,7 +122,7 @@ Three regression models were trained and evaluated on the combined dataset (80/2
 
 #### What the models agree on — consistent chemical drivers across all three:
 
-1. **Alcohol** — the single strongest predictor in every model. A proxy for grape ripeness and fermentation efficiency: high alcohol means grapes were harvested at peak maturity and the fermentation ran clean and complete.
+1. **Alcohol** — the single strongest predictor in every model. A proxy for grape ripeness and fermentation efficiency: high alcohol means grapes were harvested at peak maturity, and the fermentation ran clean and complete.
 
 2. **Volatile Acidity** — consistently the top negative driver. Signals fermentation stress, oxidation, or unstable storage. A chemical marker of what went wrong somewhere in the process.
 
@@ -138,7 +138,7 @@ This is not a modeling limitation. It is an honest reflection of what laboratory
 
 ---
 
-## 💡 Why This Matters
+## Why This Matters
 
 - **Objective quality control:** Physicochemical measurements offer a scalable, data-driven alternative to purely subjective sensory evaluation
 - **Actionable production targets:** The benchmarks derived here give winemakers specific, measurable parameters to monitor and optimize
@@ -169,7 +169,7 @@ wine-quality-analysis/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository
 2. Install dependencies:
@@ -181,7 +181,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost jupyter
 
 ---
 
-## 📜 References
+## References
 
 - [Wine Quality Dataset — UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/186/wine+quality)
 - Cortez, P., Cerdeira, A., Almeida, F., Matos, T., & Reis, J. (2009). Wine Quality. *UCI Machine Learning Repository*. https://doi.org/10.24432/C56S3T
@@ -190,11 +190,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost jupyter
 
 ## 👨‍💻 Author
 
-**Renato Silva** — Data Analyst
+**Renato Silva** — Raporting and Data Analyst
 
-[LinkedIn](https://www.linkedin.com/in/) | [GitHub](https://github.com/RenatoMateo)
+[LinkedIn](https://www.linkedin.com/in/) | [GitHub](https://github.com/RenatoMateo) | 
+
+[Power BI](https://app.powerbi.com/view?r=eyJrIjoiY2E2YjQyZDktMDc2MS00MTJiLWIwMjktZjgwYWU4NmMxOTE3IiwidCI6IjlmMTE5OTYyLThjNjItNDMxYy1hOGVmLWU3ZTBhNDJkMTFmYyIsImMiOjR9&pageName=7c4ac6fc0311211deb7e)
+
 
 ---
-
-*"The discovery of a good wine is increasingly better for mankind than the discovery of a new star."*
-— Leonardo da Vinci 🍇
